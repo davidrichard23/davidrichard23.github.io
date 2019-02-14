@@ -974,4 +974,19 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
 }
 
+
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#headshot {
+  width: 200px;
+  height: 200px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 100px;
+}
+
 /*# sourceMappingURL=style.css.map */
